@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Righteous&display=swap');
+table{ 
+        font-size: 35px;
+        font-family:'Raleway', cursive;
+}
+h1, h2 {
+    font-size: 35px;
+    font-family: 'Raleway', cursive;
+}
+h4, h3, h5 {
+    font-size: 25px;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+}
+body{
+background: url(https://media.cdnandroid.com/item_images/773030/imagen-black-wallpaper-0thumb.jpg);
+
+}
